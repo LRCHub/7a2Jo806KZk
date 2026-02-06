@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "抄本",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-02-06T07:23:04.652059Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "抄本",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_抄本_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "抄本",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_抄本_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "抄本",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/03_抄本_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "抄本",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_抄本_米津玄師.txt"
+    }
+  ]
+}
